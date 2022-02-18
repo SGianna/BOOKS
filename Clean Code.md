@@ -51,4 +51,4 @@
 
 #노마드코더 #북클럽 #노개북
 
-"이 글은 [Robinyeon 님의 클린 코드](BOOKS/클린 코드(Clean Code).md) TIL 작성 방법을 참고하였습니다."
+"이 글은 [Robinyeon 님의 클린 코드](https://github.com/robinyeon/TIL/blob/main/BOOKS/%ED%81%B4%EB%A6%B0%20%EC%BD%94%EB%93%9C(Clean%20Code).md) TIL 작성 형식을 참고하였습니다."
