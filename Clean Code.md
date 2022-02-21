@@ -77,7 +77,7 @@
    - 문제 영역 개념과 관련이 깊은 코드라면 문제 영역에서 이름을 가져와야한다. 
 
 ## Mission 1. 최애 TIL
-1. [robinyeon님의 Github](https://github.com/robinyeon/TIL/Books/클린 코드(Clean Code).md)
+1. [robinyeon님의 Github](https://github.com/robinyeon/TIL/Books)
  - 선정 이유 : Github에 TIL 작성을 생각하면서 형식을 잡는 데 많은 도움을 받을 수 있었다. 
 2. [inkyu0103님의 velog](https://velog.io/@inkyu0103/Books-Clean-Code-TIL-2)
  - 선정 이유 : 읽은 소감을 정리하신 부분이 인상 깊었다. 
