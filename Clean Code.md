@@ -356,6 +356,8 @@ CMOCK이라는 라이브러리를 사용하여 하드웨어 핸들링 부분을 
  - 친절한 답변들 :)
  	- 네, 사용 가능합니다. Java 사용하신다면 JUnit으로 그 외 React나 Vue.js, JavaScript 사용하신다면 Jest 같은 거 사용해서 테스트 코드 작성하셔서 사용하시면 될 것 같습니다.
  	- 프론트엔드 테스트 도구인 cypress도 사용합니다!
+3. [Unit test -> Integration test -> e2e test](https://yunicorn.notion.site/TIL-2022-03-05-03-06-22a6797cb4c443a2a0d66928d6f7587e)
+
 </br>
 ## Mission 1. 최애 TIL
 1. [robinyeon님의 Github](https://github.com/robinyeon/TIL/)
