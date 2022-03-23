@@ -136,9 +136,9 @@
  - 파이썬 기본 구현인 CPython이 3.9부터 PEG 파서를 사용한다. 
 9. 도움이 될 책들
  - <Gof의 디자인패턴> 
-  - 장식자 패턴 (decorator pattern)(p.61)
-  - 싱글턴 패턴 (singleton pattern)(p.62)
-  - 전략 패턴 (strategy pattern)(p.62)
+  	- 장식자 패턴 (decorator pattern)(p.61)
+  	- 싱글턴 패턴 (singleton pattern)(p.62)
+  	- 전략 패턴 (strategy pattern)(p.62)
 <br/>
 
 ## 3장 기본 도구
